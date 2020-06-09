@@ -1,9 +1,11 @@
 title: Stop and Think
-email: stopandthink@gmail.com
+author: Amit Kumar Singh
 description: >- # this means to ignore newlines until "baseurl:"
   Jotting down thoughts on general issues.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://amitks1494.github.io/stopandthink" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stopandthink.in" # the base hostname & protocol for your site, e.g. http://example.com
+
+permalink: /:year/:month/:day/:title.html
 
 # Build settings
 theme: minima
@@ -15,8 +17,12 @@ collections:
   authors:
     output: true
 
+header_pages:
+  - authors.md
+
 site:
   show_excerpts: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
