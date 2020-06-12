@@ -9,13 +9,14 @@ tags: environment
 ![Plastic pollution](/assets/images/plastic-pollution.jpg)
 *Photo by Antoine GIRET on Unsplash*
 
-> *Plastic items are a brilliant product but they are a victim of their own success.*
-
 ## Production and Consumption
 
 With the discovery of plastic about 150 years ago the new prospects opened up to create a variety of synthetic products which replaced glass and metals. Since the invention of *Bakelite* in 1907, the commercial use of plastic has increased. The plastic products are cheap, versatile, lightweight and easy to make and are used in several industries such as in packaging, construction, healthcare etc. According to a report by Geyer (2017), the world plastic production has increased from **2 million tonnes** in 1950 to around **381 million tonnes** in 2015 i.e approximately ***200 times.*** The single use plastics used for packaging and disposables constitute about 50% of the plastic produced.
 
 According to a report by FICCI in 2017, India's per capita consumption is **11 kg** (in 2015), while the world average was 28 kg. The cult of use and throw of single use plastics is proving bane for our environment
+
+
+> *Plastic items are a brilliant product but they are a victim of their own success.*
 
 **Plastic pollution** refers to the accumulation of mismanaged, uncollected, synthetic, non-biodegradable plastic waste in the environment in such a quantity that it becomes hazardous to the living beings especially wildlife and aquatic species. According to CPCB, Plastic makes up about **8%** of total solid waste in India. India generates **9.4 Million tonnes** of plastic waste every year (Approx 26000 tonnes per day).
 
@@ -35,7 +36,7 @@ According to recent estimates worldwide, 79% of the plastic waste ever produced 
 
 > *In India, 60% of plastic waste is recycled while 40% remains uncollected.*
 
-## Impact
+## Impact 
 
 The plastic waste leads to choking of streams, causes hindrance to photosynthesis in oceans and significant hazards to aquatic wildlife. It also impacts health of living beings as toxic chemicals and microbeads enters the food chain upon ingestion of plastic waste by turtles, dolphin and cows who mistake it for food, having adverse effects on their nervous, respiratory and reproductive systems, On burning of plastic waste, toxic fumes such as furans and dioxins are emitted into environment which are harmful for immune system and can cause cancer.
 
