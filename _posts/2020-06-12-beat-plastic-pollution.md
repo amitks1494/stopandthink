@@ -63,6 +63,13 @@ Amidst all this, there are individuals, societies, municipalities all over the c
 
 In 2008 the ***Rwandan*** government banned the manufacturing, use, sale and importation of all plastic bags and is one of the cleanest nations on the Earth. In 2002 the ***Irish*** government introduced a tax on plastic bags at points of sale, known as the “*PlasTax”*, which forced about 95% citizens to buy reusable cloth bags, thus giving up use of plastic bags. As of January 2017, most of ***Austria’s*** large supermarket chains have voluntarily stopped providing customers with free carrier bags (made from any kind of material).
 
+## Alternatives to Plastic 
+The use of ***biodegradable platewares*** from the fallen dried leaves of ***Areca palm trees*** in South India is a sustainable and eco-friendly alternative to plastic styrofoam platewares.
+***Paper water bottle*** made up of biodegradable pulp mixture of wheat straw, bamboo, husks, sugar cane, and/or bulrush. It can be converted to tissue paper, or writing paper after first use.
+Use of ***aluminium cans*** which are infinitely recyclable, unlike plastics which can be recycled only 4-5 times 
+Move to eco-friendly packaging options, by incorporating materials that has less impact on the planet - like ***newspaper packaging***
+
+
 ## Conclusion
 
 Transitioning to more eco-friendly alternatives can be a lengthy process. In the meantime, strengthening circular economy and waste management systems can successfully help in reducing plastics pollution.
