@@ -65,8 +65,11 @@ In 2008 the ***Rwandan*** government banned the manufacturing, use, sale and imp
 
 ## Alternatives to Plastic 
 The use of ***biodegradable platewares*** from the fallen dried leaves of ***Areca palm trees*** in South India is a sustainable and eco-friendly alternative to plastic styrofoam platewares.
+
 ***Paper water bottle*** made up of biodegradable pulp mixture of wheat straw, bamboo, husks, sugar cane, and/or bulrush. It can be converted to tissue paper, or writing paper after first use.
+
 Use of ***aluminium cans*** which are infinitely recyclable, unlike plastics which can be recycled only 4-5 times 
+
 Move to eco-friendly packaging options, by incorporating materials that has less impact on the planet - like ***newspaper packaging***
 
 
