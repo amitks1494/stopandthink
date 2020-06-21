@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review Rich Dad Poor Dad"
+title: "Book Review : Rich Dad Poor Dad - By Robert Kiyosaki"
 date: 2020-06-21 10:10 +0530
 categories: book-review
 author: amit
