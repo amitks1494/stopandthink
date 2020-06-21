@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Humanity, Duty, Hatred and Limited Prejudiced Identities"
-date: 2020-06-21 12:12 +0530
+date: 2020-06-01 12:12 +0530
 categories: socio-political
 author: amit
 tags: socio-political
@@ -20,6 +20,6 @@ Amidst all this, there are those who have been serving the society, nation and h
 Least we can do on our part is to stop the circulation of videos, text messages spreading hatred and prevent rumours to spread in society on various social media platforms and report them to the adequate authorities. 
 
 Finally I quote Kennedy ***"ask not what your country can do for you, ask what you can do for your country"***.
- 
+
 
 
