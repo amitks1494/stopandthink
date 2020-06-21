@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Book Review : Rich Dad Poor Dad - By Robert Kiyosaki
-date: 2020-06-21 07:00 +0530
+title: "Book Review Rich Dad Poor Dad"
+date: 2020-06-21 10:10 +0530
 categories: book-review
 author: amit
 tags: book-review
@@ -37,5 +37,5 @@ All throughout the book, the writer has tried to put the crux of the matter in a
 
 If you never had any exposure to financial literacy, then this can give you a nice idea to ponder upon. And to start at least thinking in terms of finances. But if you are looking for minute details on the process of investment, then this book is not for you as the very details of the art of making money is not provided herewith.  The book is worth reading once to have a vague idea of how money can work for you. 
 	
-  I would rate the book to be **9/10.** 
+    I would rate the book to be **9/10.** 
 
