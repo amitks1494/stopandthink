@@ -22,7 +22,7 @@ header_pages:
 
 site:
   show_excerpts: true
-
+  google_analytics: "UA-169388810-1"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
