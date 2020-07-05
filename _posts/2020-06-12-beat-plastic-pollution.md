@@ -5,6 +5,7 @@ date: 2020-06-12 9:22 +0530
 categories: environment
 author: amit
 tags: environment
+comments: true
 ---
 ## Production and Consumption
 

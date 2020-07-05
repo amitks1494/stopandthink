@@ -5,6 +5,7 @@ date: 2020-06-07 12:12 +0530
 categories: environment
 author: amit
 tags: environment
+comments: true
 ---
 This environment day, the world is witnessing probably the worst nightmare that one could ever imagine i.e. 
 **Corona Crisis**. 
