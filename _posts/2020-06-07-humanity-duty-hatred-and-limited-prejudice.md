@@ -5,7 +5,6 @@ date: 2020-06-07 12:12 +0530
 categories: socio-political
 author: amit
 tags: socio-political
-comments: true
 ---
 
 Lately there has been enough evidence of hate mongering within the country. We need to understand that we will have to identify and differentiate those perpetrators of crime and not generalise our hatred towards the whole community or demonise that group as a whole. Unless we stop making such generalisations we will end up creating a false image of ***“every Muslim (for say Minorities) as a terrorist, every Communist as a Naxalite, every liberal an Urban Naxal, all Sadhus as Dhongis and everyone who questions the government as an Anti-National”***, thus setting out wrong prejudices in our society. 
