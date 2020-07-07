@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Humanity, Duty, Hatred and Limited Prejudiced Identities"
-date: 2020-06-01 12:12 +0530
+date: 2020-06-07 12:12 +0530
 categories: socio-political
 author: amit
 tags: socio-political
