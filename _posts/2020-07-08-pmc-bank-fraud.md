@@ -11,7 +11,7 @@ tags: economy
 
 What happens when you are devoid of withdrawing your hard earned money, that you saved and deposited into your bank account for safety ? How does it feel when you find that your money is being used to fund fraudulent luxuries ? The sheer pain of betrayal by a bank leaves the depositors with anger, frustration and often leads to suicides. 
 
-The PMC fraud case is one such incident. 
+The Punjab and Maharashtra Cooperative Bank fraud case is one such incident. 
 
 ## About PMC Bank
 PMC is a Urban Cooperative Bank (UCB), with operations in 7 states i.e. Maharashtra, Delhi, Karnataka, Goa, Gujarat, Andhra Pradesh and Madhya Pradesh. It was founded in 1984 as a single branch in Mumbai, and now has a total 136 branches and around 16 lakh depositors. It’s total loans stand at around 9,000 crore and the deposits at over Rs 11,610 crore.  It’s customers include small businesses, housing societies and institutions.
