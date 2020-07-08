@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PMC Bank Fraud Case : Is it safe to put money in banks?"
+title: "PMC Bank Scam : Is it safe to put money in banks?"
 date: 2020-07-08 12:12 +0530
 categories: economy
 author: amit
