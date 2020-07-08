@@ -1,11 +1,13 @@
-2020-07-08-pmc-bank-fraud.md
+
 layout: post
-title: "PMC Bank Fraud Case : Is it safe to put money in banks ?"
+title: "PMC Bank Fraud Case : Is it safe to put money in banks?"
 date: 2020-07-08 12:12 +0530
 categories: economy
 author: amit
 tags: economy
 ---
+
+![pmc fraud](/assets/images/pmc-fraud.jpg)
 
 What happens when you are devoid of withdrawing your hard earned money, that you saved and deposited into your bank account for safety ? How does it feel when you find that your money is being used to fund fraudulent luxuries ? The sheer pain of betrayal by a bank leaves the depositors with anger, frustration and often leads to suicides. 
 
