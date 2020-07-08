@@ -26,7 +26,7 @@ HDIL employees colluded with PMC managers and the bank created ***21,049 dummy a
 They also ***created fake reports*** to avoid regulatory supervision. In 2018-19, the bank had reported a net profit of Rs 99.69 crore in its annual report. The bank showed 3.76 % (or Rs 315 crore) of its total loans (Rs 8,383 crore) as gross NPAs, which was a good performance as compared to public-sector banks. 
 
 ## How it started ?
-As per statements of Former PMC Bank MD Joy Thomas HDIL was a major business giver of the PMC Bank. 
+As per former PMC Bank MD Joy Thomas, HDIL was a major business giver of the PMC Bank. 
 
 The PMC bank’s relationship with HDIL started in 1986-87, when HDIL and many other companies came to the rescue of the PMC bank as it was on the brink of closure due to default by some borrowers. 
 Again, in 2004, Rakesh’s elder brother Rajesh Wadhawan deposited more than Rs 100 Crore to help the bank to overcome the liquidity crunch. After that HDIL started banking with PMC and more than 60 % transactions of the bank were from HDIL.
