@@ -3,7 +3,7 @@ layout: post
 title: "Bollywood style killing of real life gangster - Vikas Dubey"
 date: 2020-07-10 12:12 +0530
 categories: news
-author: amit
+author: sumit
 tags: news
 ---
 
