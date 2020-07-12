@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Atmanirbhar startup idea of a fake SBI branch"
+title: "Hera Pheri Bank : startup idea of a fake SBI branch"
 date: 2020-07-11 12:12 +0530
 categories: news
 author: amit
@@ -16,8 +16,6 @@ Kamal Babu is son of 2 former SBI employees, who brought computers, lockers, cha
 They ran the branch successfully for almost three months, before getting caught. The issue came to notice when the branch manager of the original bank came to know about it through a customer. When the real SBI manager went to inquire about it he was shocked and surprised to find the exact similar setup having all necessary infrastructure to run a bank.
 
 According to Police reports, Kamal Babu’s father passed away 10 years ago, his mother also retired from SBI two years ago.. He applied for the post of his father, but due to delay in processing of application he got frustrated and decided to open his own bank branch. Since childhood, he used to go to banks, so he knew all the operations of banks. 
-
-It seems that they took the idea of ***“Atmanirbhar Bharat”*** too seriously even before our Prime Minister Modi announced it on May 12. 
 
 The three accused have been booked under sections 473, 469, 484, and 109  of the Indian Penal Code, which are related to forgery, counterfeiting, maligning the reputation of an organisation, abetment in crime  etc. 
 
