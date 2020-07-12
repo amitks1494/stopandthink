@@ -5,6 +5,7 @@ date: 2020-07-10 12:12 +0530
 categories: news
 author: sumit
 tags: news
+blogUid: '43f2adf4-4d6e-477c-b710-6f0ae4d5818e'
 ---
 
 A dreaded criminal and wanted gangster who had over 60 police cases registered against him was killed in a retaliatory police shootout when he tried to flee away from the police custody, while he was being transferred from Ujjain to Kanpur after being arrested in Ujjain. 

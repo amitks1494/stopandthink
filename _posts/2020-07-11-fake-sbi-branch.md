@@ -5,6 +5,7 @@ date: 2020-07-11 12:12 +0530
 categories: news
 author: amit
 tags: news
+blogUid: 'af47e682-0b2c-4380-9b50-6c0cac4fe302'
 ---
 
 ![fake SBI branch](/assets/images/fake-branch.jpg)

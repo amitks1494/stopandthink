@@ -5,6 +5,7 @@ date: 2020-07-08 12:12 +0530
 categories: economy
 author: amit
 tags: economy
+blogUid: 'b8a66a1c-afdd-4df6-86f9-dcfb082da981'
 ---
 
 ![pmc fraud](/assets/images/pmc-fraud.jpg)

@@ -5,6 +5,7 @@ date: 2020-06-12 9:22 +0530
 categories: environment
 author: amit
 tags: environment
+blogUid: '5caa4225-490e-4985-a1c0-a65b0e306238'
 ---
 ## Production and Consumption
 
