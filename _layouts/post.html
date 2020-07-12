@@ -43,16 +43,18 @@ layout: default
   <input type="text" id="userName" name="userName" value="" required><br>
   <label for="email">* Email:</label><br>
   <input type="email" id="email" name="email" value="" required><br>
-  <input type="submit" value="Submit">
+  <input class="btn" type="submit" value="Submit">
 </form> 
 
 </body>
 </html>
 
+{% include newsletter.html %}
+
 <script>
 window.addEventListener("load", function() {
   var form = document.getElementById("addComment");
-  const url = "{{ site.backend }}?blogUid={{ page.blogUid }}"
+  const url = "{{ site.backend }}/?blogUid={{ page.blogUid }}"
   const xhr = new XMLHttpRequest();
   let commentsArray = [];
   xhr.addEventListener("readystatechange", function() {
@@ -76,7 +78,7 @@ window.addEventListener("load", function() {
   }
   
   function handleSubmit(data) {
-    let url = "{{ site.backend }}";
+    const url = "{{ site.backend }}";
     const xhr = new XMLHttpRequest();
 
     xhr.addEventListener("readystatechange", function() {

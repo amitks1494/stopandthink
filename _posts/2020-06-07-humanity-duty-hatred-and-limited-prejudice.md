@@ -7,8 +7,6 @@ author: amit
 tags: socio-political
 blogUid: '042619c9-324c-44ae-a732-55b1cbbf4681'
 ---
-
-<!-- blogUid: 'e1d04cbb-0259-4b9e-84a3-269658bd7f42' -->
 ![Religions Entangled by Humanity](/assets/images/religions.jpg)
 
 Lately there has been enough evidence of hate mongering within the country. We need to understand that we will have to identify and differentiate those perpetrators of crime and not generalise our hatred towards the whole community or demonise that group as a whole. Unless we stop making such generalisations we will end up creating a false image of ***“every Muslim (for say Minorities) as a terrorist, every Communist as a Naxalite, every liberal an Urban Naxal, all Sadhus as Dhongis and everyone who questions the government as an Anti-National”***, thus setting out wrong prejudices in our society. 
