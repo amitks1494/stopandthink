@@ -26,3 +26,5 @@ According to local media reports, Kamal told that he didn’t want to cheat anyo
 > ***End cannot justify the means. “End” as well as “means” are important to reach any good outcome. Wrong acts cannot be justified in pursuance of a good end.***
 
 
+
+
