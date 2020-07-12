@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Atmanirbhar startup idea of a duplicate fake SBI branch"
+title: "An Atmanirbhar startup idea of a fake SBI branch"
 date: 2020-07-11 12:12 +0530
 categories: news
 author: amit
