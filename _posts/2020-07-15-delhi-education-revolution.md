@@ -41,7 +41,7 @@ Increase in seats in government schools in Delhi from 17000 in 2015 to 36000 in 
 
 **Entrepreneurship mindset (For class 9th to 12th)** - Students get exposure to risk taking. Each child gets Rs. 1000 as seed money that they can spend to create a business, the additional profit is kept by students and the seed money is returned to the government after a couple of months. 
 
-** Chunauti 2018 programme** - launched in 2016, aims to reduce the learning gaps, to have all students of 9th class to be able to read, write and do basic maths and attain learning outcomes appropriate to their grade level. OUTCOME - Pass percentage in class 9th improved from 52% in 2015-16 to 57% in 2017-18. 
+**Chunauti 2018 programme** - launched in 2016, aims to reduce the learning gaps, to have all students of 9th class to be able to read, write and do basic maths and attain learning outcomes appropriate to their grade level. OUTCOME - Pass percentage in class 9th improved from 52% in 2015-16 to 57% in 2017-18. 
 
 **Mission Buniyad** - Similar to Chunauti programme for 3rd to 8th class students. 
 
