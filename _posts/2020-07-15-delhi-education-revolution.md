@@ -5,6 +5,7 @@ date: 2020-07-15 10:10 +0530
 categories: education
 author: amit
 tags: education
+blogUid: '1f16479f-fb0d-4eed-9b69-f16c38ddd95c'
 ---
 
 School education is of paramount importance for the development of youth of any nation. It opens up new horizons of life, provides new aspirations and contributes towards the mental growth of children. This basic education decides the future of any student. 
