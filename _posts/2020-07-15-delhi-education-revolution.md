@@ -24,7 +24,7 @@ Involvement of parents in ***School Management Committees (SMCs)*** which are ma
 Innovative learning methods were incorporated, smart classrooms are made, focus is given on activity oriented learning rather than rote learning. 
 
 ## Teacher recognition 
-Award functions are organised annually to give recognition to good efforts and hoardings are displayed with their photos and achievements on it, all over Delhi. It gave motivation to other teachers to raise the bar and perform well. 
+Award functions are organised annually to give recognition to good efforts of teacher and hoardings are displayed with their photos and achievements on it, all over Delhi. It gave motivation to other teachers to raise the bar and perform well. 
 
 ## Champions of change 
 Every system has about 20-30% of cream. They need to be identified, nurtured and put to a better use. The same was done in Delhi government school. 
