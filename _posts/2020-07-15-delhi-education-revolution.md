@@ -4,7 +4,7 @@ title: "Delhi Education Revolution : an outcome of Good governance ?"
 date: 2020-07-15 10:10 +0530
 categories: education
 author: amit
-tags: education
+tags: education good-governance
 blogUid: '1f16479f-fb0d-4eed-9b69-f16c38ddd95c'
 ---
 
