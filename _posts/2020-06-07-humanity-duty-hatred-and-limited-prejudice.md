@@ -4,7 +4,7 @@ title: "Humanity, Duty, Hatred and Limited Prejudiced Identities"
 date: 2020-06-07 12:12 +0530
 categories: socio-political
 author: amit
-tags: socio-political
+tags: social political
 blogUid: '042619c9-324c-44ae-a732-55b1cbbf4681'
 ---
 ![Religions Entangled by Humanity](/assets/images/religions.jpg)
