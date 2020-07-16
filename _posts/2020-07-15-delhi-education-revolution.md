@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delhi Education Revolution : Makeover of Delhi government schools"
+title: "Delhi Education Revolution"
 date: 2020-07-15 10:10 +0530
 categories: education
 author: amit
@@ -12,8 +12,7 @@ School education is of paramount importance for the development of youth of any 
 According to the Department of Education, almost 60% of students are enrolled in over 1000 government schools in Delhi. Despite several efforts, the government school system was in shambles, the basic quality of education and infrastructure was not up to the mark. With sustained, systematic and persistent efforts mentioned below it was possible to repair and rebuild the broken public education system to a certain extent in the past 5 years. 
 
 ## Increase in education Budget 
-Delhi government raised the budget for education in Delhi to about ~25% of the whole budget, which is around Rs. 15000 Crore in 2020.
-
+Delhi government raised the budget for education in Delhi to about ~25% of the whole budget, which is around Rs. 15000 Crore in 2020
 
 ## Infrastructure and Sanitation 
 A broken down classroom often translates to broken self esteem. Infrastructure and sanitation facilities are necessary to create a conducive environment of learning. It is also important to maintain the dignity of teachers and students. It creates a better sense of self worth and enhances self confidence among students. So, the schools were renovated, new buildings were made. New sports facilities, playgrounds, libraries, toilets were constructed and renovated and also their cleanliness and maintenance was also assured. One can witness a remarkable difference in government school infrastructure as compared to earlier times. Delhi government schools have set a benchmark of excellence in infrastructure. 
