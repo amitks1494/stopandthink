@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delhi Education Revolution"
+title: "Delhi Education Revolution : an outcome of Good governance ?"
 date: 2020-07-15 10:10 +0530
 categories: education
 author: amit
