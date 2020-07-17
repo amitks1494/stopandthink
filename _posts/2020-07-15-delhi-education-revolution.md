@@ -19,13 +19,13 @@ Delhi government raised the budget for education in Delhi to approximately ~25% 
 ## Infrastructure and Sanitation 
 A broken down classroom often translates to a broken self esteem. Infrastructure and sanitation facilities are necessary to create a conducive environment for learning. It is also important to maintain the dignity of teachers and students. It creates a better sense of self worth and enhances self confidence among students. So, the schools were renovated, new buildings were made. 
 
-New sports facilities, playgrounds, libraries, toilets were constructed and renovated and also their cleanliness and maintenance was also assured. One can witness a remarkable difference in government school infrastructure as compared to earlier times. Delhi government schools have set a benchmark of excellence in infrastructure. 
+New sports facilities, playgrounds, libraries, toilets were constructed and renovated and their cleanliness and maintenance was also assured. One can witness a remarkable difference in government school infrastructure as compared to earlier times. Delhi government schools have set a benchmark of excellence in infrastructure. 
 
 ## Fixing accountability
 Involvement of parents in ***School Management Committees (SMCs)*** was mandated under Right to Education Act, 2009. It gave a push to decentralised monitoring and supervision. Every school has an SMC with a total of 16 members, out of which 75% are parents. Each SMC is provided with Rs. 5-7 lakhs of funds for routine maintenance in schools, and are empowered to regularly visit the school and inspect the Mid Day Meals, cleanliness and curriculum.
 
 ## Restructuring of classrooms 
-Innovative learning methods were incorporated, smart classrooms are made, focus is given on activity oriented learning rather than rote learning. 
+Innovative learning methods are incorporated, smart classrooms are made, focus is given on activity oriented learning rather than rote learning. 
  
 
 ## Champions of change 
@@ -39,21 +39,21 @@ Increase in seats in government schools in Delhi from 17000 in 2015 to 36000 in 
 
 ## Reforms and Interventions for students :- 
 
-**Happiness Curriculum** - To help students live happier life and practice stress and anger management, meditation, mindfulness, and inculcate in them values such as empathy, compassion, critical thinking for socio-emotional development 
+**Happiness Curriculum** - To help students live happier life and practice stress and anger management, meditation, mindfulness, and inculcate in them values such as empathy, compassion, critical thinking for their socio-emotional development. 
 
 **Entrepreneurship mindset (For class 9th to 12th)** - Students get exposure to risk taking. Each child gets Rs. 1000 as seed money that they can spend to create a business, the additional profit is kept by students and the seed money is returned to the government after a couple of months. 
 
-**Chunauti 2018 programme** - launched in 2016, aims to reduce the learning gaps, to have all students of 9th class to be able to read, write and do basic maths and attain learning outcomes appropriate to their grade level. OUTCOME - Pass percentage in class 9th improved from 52% in 2015-16 to 57% in 2017-18. 
+**Chunauti 2018 programme** - Launched in 2016, aims to reduce the learning gaps, to enable students of 9th class to read, write and do basic maths and to attain learning outcomes appropriate to their grade level. OUTCOME - Pass percentage in class 9th improved from 52% in 2015-16 to 57% in 2017-18. 
 
 **Mission Buniyad** - Similar to Chunauti programme for 3rd to 8th class students. 
 
-**Reading Campaign** - One hour of focused reading activities were conducted daily. “Reading Melas” were organised by SMCs. OUTCOME - Nearly one lakh students of class 6th ,7th ,8th learnt to read their textbooks during the campaign. 
+**Reading Campaign** - One hour of focused reading activities were conducted daily. “Reading Melas” were organised by SMCs. OUTCOME - Nearly one lakh students of class 6th ,7th and 8th learnt to read their textbooks during the campaign. 
 
 **Pragati Series** - creation of extra supplementary learning material by school teachers themselves to reduce dependence on guide books. This is in addition to NCERT books.
 
 **Summer Camps** - to welcome incoming students of class 6th in school and make them do group activities, peer interactions so that they acclimatize with the school atmosphere. 
 
-**Spoken English Classes** - Organised to enhance the english speaking skills of students 
+**Spoken English Classes** - Organised to enhance the english speaking skills of students. 
 
 
 ## Other reforms and interventions for Teachers and Principals 
