@@ -81,9 +81,7 @@ Quality education should be the right of every child. Education should not be di
 
 There is a need to move from rote learning to conceptual understanding, as only scoring good marks is not sufficient, learning should preside over craving for marks.
 
-Similar models can also be applied in the whole of India with need based modifications. 
-
-Change is a continuous process. Positive change should keep going on in future. 
+Similar models can also be applied in the whole of India with need based modifications.  
 
 Over the years, there have been improvements in the pass percentage of XIIth class students -- in 2016 - 85.9%, 2017 - 88.2%, 2018 - 90.6 %, 2019 - 94.24% and in 2020: 98% students passed in Delhi government schools, as per reports by government. 
 
