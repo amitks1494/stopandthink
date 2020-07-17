@@ -11,7 +11,7 @@ blogUid: '1f16479f-fb0d-4eed-9b69-f16c38ddd95c'
 School education is of paramount importance for the development of youth of any nation. It opens up new horizons of life, provides new aspirations and contributes towards the mental growth of children. This basic education decides the future of any student. 
 According to the Department of Education, almost 60% of students are enrolled in over 1000 government schools in Delhi. Despite several efforts, the government school system was in shambles, the basic quality of education and infrastructure was not up to the mark. With sustained, systematic and persistent efforts mentioned below the broken public education system was repaired and rebuilt to a certain extent in the past five years. 
 
-## Increase in education Budget 
+## Increase in Education Budget 
 Delhi government raised the budget for education in Delhi to approximately ~25% of the whole budget. In 2015-16, the budget was Rs. 6208 Cr, in 2016-17 it was Rs. 8642 Cr, in 2017-18 it allotted Rs. 9,888 Cr, in 2018-19 it was Rs. 11,201 Cr, and which went up to Rs. 15,815 Crore in 2020. 
 
 ![delhi education budget](/assets/images/delhi-budget.png)
