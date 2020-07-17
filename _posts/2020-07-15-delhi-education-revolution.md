@@ -12,10 +12,14 @@ School education is of paramount importance for the development of youth of any 
 According to the Department of Education, almost 60% of students are enrolled in over 1000 government schools in Delhi. Despite several efforts, the government school system was in shambles, the basic quality of education and infrastructure was not up to the mark. With sustained, systematic and persistent efforts mentioned below it was possible to repair and rebuild the broken public education system to a certain extent in the past 5 years. 
 
 ## Increase in education Budget 
-Delhi government raised the budget for education in Delhi to about ~25% of the whole budget, which is around Rs. 15000 Crore in 2020
+Delhi government raised the budget for education in Delhi to about ~25% of the whole budget. In 2015-16, the budget was Rs. 6208 Cr, in 2016-17 it was Rs. 8642 Cr, in 2017-18 it allotted Rs. 9,888 Cr, in 2018-19 it was Rs. 11,201 Cr, and which went up to Rs. 15,815 Crore in 2020. 
+
+![delhi education budget](/assets/images/delhi-budget.png)
 
 ## Infrastructure and Sanitation 
-A broken down classroom often translates to broken self esteem. Infrastructure and sanitation facilities are necessary to create a conducive environment of learning. It is also important to maintain the dignity of teachers and students. It creates a better sense of self worth and enhances self confidence among students. So, the schools were renovated, new buildings were made. New sports facilities, playgrounds, libraries, toilets were constructed and renovated and also their cleanliness and maintenance was also assured. One can witness a remarkable difference in government school infrastructure as compared to earlier times. Delhi government schools have set a benchmark of excellence in infrastructure. 
+A broken down classroom often translates to broken self esteem. Infrastructure and sanitation facilities are necessary to create a conducive environment of learning. It is also important to maintain the dignity of teachers and students. It creates a better sense of self worth and enhances self confidence among students. So, the schools were renovated, new buildings were made. 
+
+New sports facilities, playgrounds, libraries, toilets were constructed and renovated and also their cleanliness and maintenance was also assured. One can witness a remarkable difference in government school infrastructure as compared to earlier times. Delhi government schools have set a benchmark of excellence in infrastructure. 
 
 ## Fixing accountability
 Involvement of parents in ***School Management Committees (SMCs)*** which are mandated under Right to Education Act, 2009. It gave push to decentralised monitoring and supervision. There is a SMC for every school with 75% members as parents out of the total 16 members. They are also provided with Rs. 5-7 lakhs of funds for routine maintenance in schools, and are empowered to regularly visit the school and inspect the Mid Day Meals, cleanliness and curriculum.
@@ -85,6 +89,18 @@ Change is a continuous process. Positive change should keep going on in future.
 
 Over the years, there have been improvements in the pass percentage of XIIth class students -- in 2016 - 85.9%, 2017 - 88.2%, 2018 - 90.6 %, 2019 - 94.24% and in 2020: 98% students passed in Delhi government schools, as per reports by government. 
 
+## Major Challenges 
+**Fall in enrollment rate** 
+According to the Praja Foundation report, ‘State of Public (School) Education in Delhi’, published in March 2019, enrolment rate in Delhi government schools has fallen by 8% from 2013-14 to 2017-18. In government schools, the enrolment rate for Class I saw a decrease of 4.8% in 2017-18.
+
+**Poor Retention** 
+A survey by Praja Foundation shows that out of 2,59,705 students enrolled in class IX in Delhi government schools in 2014-15, 56% did not reach class XII in 2017-18. 
+
+**Deficit of Teachers** 
+According to Delhi Economic Survey, 2019, the government schools have only 57% regular teachers, while rest of them are guest teachers. 
+
+## Conclusion 
+With upgraded infrastructure facilities and increased education budget, a platform has been created for advancement in the Education sector in Delhi. With all these efforts, it will take another 5-10 years to achieve the desired outcomes. There is a need to address the challenges for inclusive growth. The battle of the education revolution is only half won.
 
 
 
