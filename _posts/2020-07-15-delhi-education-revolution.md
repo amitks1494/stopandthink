@@ -85,7 +85,7 @@ Similar models can also be applied in the whole of India with need based modific
 
 Over the years, there have been improvements in the pass percentage of XIIth class students -- in 2016 - 85.9%, 2017 - 88.2%, 2018 - 90.6 %, 2019 - 94.24% and in 2020: 98% students passed in Delhi government schools, as per reports by government. 
 
-## Major Challenges 
+## Challenges Ahead
 **Fall in enrollment rate** - According to the Praja Foundation report, ‘State of Public (School) Education in Delhi’, published in March 2019, enrolment rate in Delhi government schools has fallen by 8% from 2013-14 to 2017-18. In government schools, the enrolment rate for Class I saw a decrease of 4.8% in 2017-18.
 
 **Poor Retention** - A survey by Praja Foundation shows that out of 2,59,705 students enrolled in class IX in Delhi government schools in 2014-15, 56% did not reach class XII in 2017-18. 
