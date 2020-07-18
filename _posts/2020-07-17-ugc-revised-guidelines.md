@@ -24,7 +24,7 @@ Fourthly, there are multiple ways of assessment and evaluation of students. Cond
 
 Fifthly, while there has been too much hew and cry over examinations, no effort is being done for industrial placements of final year students. 
 
-Lastly, such uniform imposition of rules and regulations are counter productive and gives birth to needless complications. India is at third in the world in terms of COVID infections with over 1 million cases as on 16th July, 2020. Students are apprehensive as to what if COVID cases increase in future and their area lies in a containment zone, then how they will appear for the exam? 
+Lastly, such uniform imposition of rules and regulations are counter productive and gives birth to needless complications. India is at third in the world in terms of COVID infections with over one million cases as on 16th July, 2020. Students are apprehensive as to what if COVID cases increase in future and their area lies in a containment zone, then how they will appear for the exam? 
 
 However, most of the states such as Punjab, Maharashtra, Odisha, West Bengal and Delhi have decided to go against the UGC decision and not conduct exams in their State Universities. 
 
