@@ -26,7 +26,7 @@ Fifthly, while there has been too much hew and cry over examinations, no effort 
 
 Lastly, such uniform imposition of rules and regulations are counter productive and gives birth to needless complications. India is at third in the world in terms of COVID infections with over one million cases as on 16th July, 2020. Students are apprehensive as to what if COVID cases increase in future and their area lies in a containment zone, then how they will appear for the exam? 
 
-However, most of the states such as Punjab, Maharashtra, Odisha, West Bengal and Delhi have decided to go against the UGC decision and not conduct exams in their State Universities. 
+However, some of the states such as Punjab, Maharashtra, Odisha, West Bengal and Delhi have decided to go against the UGC decision and not conduct exams in their State Universities. 
 
 The decision to evaluate and assess students should be done deliberately so as to avoid the risk of infection and not put extra burden on the shoulders of already worried students in such uncertain times. 
 
