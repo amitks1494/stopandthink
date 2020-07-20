@@ -4,7 +4,7 @@ title: "Book Review : Rich Dad Poor Dad (Robert Kiyosaki)"
 date: 2020-06-21 10:10 +0530
 categories: book-review
 author: amit
-tags: book-review
+tags: book-review economy education
 blogUid: '664ddfee-41e8-47d8-bc66-cd03ce45ee05'
 ---
 ## Introduction
