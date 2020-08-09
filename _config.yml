@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 backend: "https://stopandthinkbackend.herokuapp.com"
 url: "https://stopandthink.in" # the base hostname & protocol for your site, e.g. http://example.com
 
-permalink: /:year/:month/:day/:title.html
+permalink: /:title.html
 
 # Build settings
 theme: minima
