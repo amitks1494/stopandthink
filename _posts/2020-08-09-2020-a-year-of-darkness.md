@@ -74,3 +74,6 @@ Apart from these, there are many tragic and unprecedented incidents and events t
 According to a report by Down to Earth,  at least **207** natural disasters were recorded globally in the first six months of 2020 — this is above the 21st century average (2000-2019) of **185** disasters.
 
 Let's hope we don't need Part-II of this article.
+
+
+> ***Wtih special efforts from Sumit Kumar Singh*** 
