@@ -76,4 +76,4 @@ According to a report by Down to Earth,  at least **207** natural disasters were
 Let's hope we don't need Part-II of this article.
 
 
-> *Wtih special efforts from Sumit Kumar Singh*
+> * -- Wtih special efforts from Sumit Kumar Singh*
