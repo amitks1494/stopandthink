@@ -2,6 +2,10 @@
 layout: post
 title: Retirement of the Beast
 date: 2020-08-16 10:07 +0530
+categories: sports
+author: amit
+tags: sports news
+blogUid: 'f05269d3-d2ea-4d68-b275-0a95356a0834'
 ---
 **Mahendra Singh Dhoni**, a man from a humble background in Ranchi, Bihar. A right-handed middle order batsman, who rocked the world with his amazing batting skills and got fame for his **“helicopter shot”**. His **“Captain cool”** attitude took India to several heights in all formats of Cricket. From being a thrilling **“speed-gun”** in between the wickets, to a wicked and quickest wicket-keeper when it comes to stumpings, to a powerful hitter of the ball, to an occasional bowler and his love affair with the match finishes with a sixer made him the most memorable player. 
 
