@@ -7,6 +7,8 @@ author: amit
 tags: sports news
 blogUid: 'f05269d3-d2ea-4d68-b275-0a95356a0834'
 ---
+![Dhoni Banner](/assets/images/dhoni_banner.jpg)
+
 **Mahendra Singh Dhoni**, a man from a humble background in Ranchi, Bihar. A right-handed middle order batsman, who rocked the world with his amazing batting skills and got fame for his **“helicopter shot”**. His **“Captain cool”** attitude took India to several heights in all formats of Cricket. From being a thrilling **“speed-gun”** in between the wickets, to a wicked and quickest wicket-keeper when it comes to stumpings, to a powerful hitter of the ball, to an occasional bowler and his love affair with the match finishes with a sixer made him the most memorable player. 
 
 He made his ODI debut against Bangladesh in **Dec 2004**, and test match debut in **Dec 2005** against Sri Lanka. Dhoni became the first Captain to win all three ICC trophies (World Cup, Champions Trophy and the World Twenty20). Dhoni also led the Indian team to number one position for the first time in the ICC Test rankings. 
