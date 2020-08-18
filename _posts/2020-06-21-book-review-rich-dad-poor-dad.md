@@ -8,7 +8,7 @@ tags: book-review economy education
 blogUid: '664ddfee-41e8-47d8-bc66-cd03ce45ee05'
 ---
 
-![Book Review](/assets/images/book-review-rdpd.jpg)
+![Book Review](/assets/images/book-review-rdpd-new.jpg)
 
 ## Introduction
 
