@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Retirement of the Beast
+title: Retirement of the Beast : M.S. Dhoni
 date: 2020-08-16 10:07 +0530
 categories: sports
 author: amit
