@@ -7,6 +7,9 @@ author: amit
 tags: book-review economy education
 blogUid: '664ddfee-41e8-47d8-bc66-cd03ce45ee05'
 ---
+
+![Book Review](/assets/images/book-review-rdpd.jpg)
+
 ## Introduction
 
 Rich Dad Poor Dad talks about the importance of financial literacy in one’s life. It offers insights based upon real life experiences. The story has 2 fathers - one educated, degree holder and yet relatively poor; the other one is a high school dropout and rich. As a kid, Robert got lessons about money from his rich dad (the father of his best friend Mike) and about a stable career and idea of scholarly education from his poor dad (his biological father). Since childhood he got exposure to both ways of earning money and being successful - the traditional method of working hard and getting a secure job, requiring formal education, the other way is to take some financial risks in life and investing money in business, stocks, mutual funds, real estate sector etc., where having any sort of formal education is not an eligibility criteria to match. This contrasting perspective of both the fathers is shared very beautifully and in an engaging, thought provoking manner. The poor dad tells him "I cannot afford it", while the rich dad teaches him "How to afford it". He points out where his poor dad made mistakes in life and remained poor. 
