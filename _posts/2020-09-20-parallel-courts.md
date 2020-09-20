@@ -9,7 +9,7 @@ blogUid: '70283f2c-d098-400e-840c-f6a410b51980'
 ---
 ![Parallel Courts](/assets/images/media-trials.jpg)
 
-Of late, there has been emergence of the **4th pillar** of democracy, i.e. the media, as the parallel courts in India. It’s working on part of our 3rd pillar of democracy i.e. the Judiciary.  The news channels, whose primary work should be to provide the news as it is, have digressed from their path. News has been replaced by perception and judgement of the anchors (so called editors). Anchors are playing role of the judge's spokesman. 
+Of late, there has been emergence of the **4th pillar** of democracy, i.e. the media, as the parallel courts in India. It’s working on part of our 3rd pillar of democracy i.e. the Judiciary.  The news channels, whose primary work should be to provide the news as it is, have digressed from their path. News has been replaced by perception and judgement of the anchors (so called editors). Anchors are playing the role of the judge's spokesman. 
 
 The mainstream media channels have become a ground of heated, antagonistic and annoying debates on unwanted issues. Issues of national importance such as education, healthcare, employment and infrastructure are sidelined and they are neither focused upon nor debated. The news screens have been divided into 4-8 small boxes by including ill-tempered so-called panelists, thrashing and abusing each other, sometimes on political lines, live on television instead of debating on important issues. The moderator on the TV show is generally highly opinionated and oversees the debate with a clear bias for opinions that match his own. 
 
