@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Media Trials : The Parallel Courts in India "
-date: 2020-09-20 10:00 +0530
+date: 2020-09-20 11:00 +0530
 categories: media
 author: amit
 tags: media
