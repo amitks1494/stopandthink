@@ -1,7 +1,7 @@
 ---
 layout: author
 title: About
-short_name: sumit
-name: Sumit Kumar Singh
+short_name: bharti
+name: Bharti Gupta
 ---
-A software engineer
+A soulful journalist
