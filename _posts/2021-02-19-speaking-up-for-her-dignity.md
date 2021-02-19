@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Speaking up for my dignity"
+title: "Speaking up for her dignity"
 date: 2021-02-19 8:05 +0530
 categories: media
 author: amit
@@ -16,7 +16,7 @@ In 2018, **#MeToo** movement/campaign started. Subsequently, women across the wo
 Priya Ramani too accused MJ Akbar of sexual misconduct and harassment during a job interview around 20 years ago. Akbar resigned after facing such allegations. The allegations against Akbar were backed up by about 20 journalists. In retaliation, Akbar filed a criminal defamation case against Ramani for speaking up against him and tarnishing his "stellar reputation". 
 
 Additional Chief Metropolitan Magistrate Ravindra Kumar Pandey in his 91 page judgement acquitting Ramani noted that - 
-"A woman cannot be punished for raising voice against sex abuse on the pretext of criminal complaint of defamation". 
+> "A woman cannot be punished for raising voice against sex abuse on the pretext of criminal complaint of defamation". 
 
 It said that - 
 > "The Right of reputation cannot be protected at the cost of right of life and dignity as guaranteed under Article 21 of the Indian Constitution". 
