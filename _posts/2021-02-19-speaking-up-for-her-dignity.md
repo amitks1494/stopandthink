@@ -7,6 +7,7 @@ author: amit
 tags: media news
 blogUid: '532f6f80-f561-4864-872c-ce3d69167272'
 ---
+![Speaking up for her dignity](/assets/images/speaking-up-for-her-dignity.jpg)
 Another feather in Protection of women at workplace
 
 Journalist **Priya Ramani's** acquittal in criminal defamation case filed against her by MJ Akbar, former Union Minister and Editor, is a landmark judgement by a Delhi Court in empowering women at Workplace. 
